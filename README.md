@@ -3,4 +3,5 @@ This is a workspace where I will implement models of statistical mechanics from 
 
 To check you have the required packages:
 in the kernel, bash
+    
     python3 pkg_check.py
